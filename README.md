@@ -7,8 +7,8 @@ A CMS-style blog site where developers can publish their blog posts and comment 
 
   ## Table of Contents 
   - [Description](#description)
+  - [Screenshot](#screenshot)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Additional Info](#additional-info)
@@ -21,14 +21,8 @@ A CMS-style blog site where developers can publish their blog posts and comment 
   
   ## Installation:
   App uses NODE.JS, EXPRESS.JS, MYSQL, Sequelize ORM, BCrypt, Connect Session Sequelize or just do 'npm i' through the command line to install the necessary packages.
+  
   Also deployed to Heroku: https://tech-blog-14-gurneet.herokuapp.com/
-
-  ## Usage:
-  'npm run seeds' -> 'npm start' or 'node server'
-  https://tech-blog-14-gurneet.herokuapp.com/
-
-  ## License:
-  None
 
   ## Contribution:
   No contributions please.
